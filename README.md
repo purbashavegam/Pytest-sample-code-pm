@@ -25,9 +25,17 @@ tests/
             test_funcs.py
 ```
 
+## To Make Dev Env and get pytest
+`python -m venv .venv`
+`pip install pytest` or 
+`pip install -r requirements.txt` [ if correctly available]
 
 
-```
+
+
+## Other things to check
+
+```text
 test file always should be named with initializing the word "test"
 ```
 
